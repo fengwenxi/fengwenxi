@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fengwenxi.
+- 👀 I’m interested in code.
+- 🌱 I’m currently learning Python and C++
+- 📫 How to reach me ? Sorry,you can't reach me.Because I'm a student.
+- ⚡ Fun fact: don't have.
